@@ -1,4 +1,3 @@
-test
 # Installation
 
 ```bash
